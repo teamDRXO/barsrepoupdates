@@ -1,0 +1,18 @@
+<PISI>
+    <Source>
+        <Name>Bars-Project-Repo</Name>
+        <Homepage>https://github.com/teamDRXO</Homepage>
+        <Packager>
+            <Name>teamDRXO</Name>
+            <Email>info@bars-project.org</Email>
+        </Packager>
+    </Source>
+    <Package>
+        <Name>bars-test-paketi</Name>
+        <Summary>Project Bars Test Paketi</Summary>
+        <Description>Sistemin GitHub'a bağlandığını test etmek için oluşturulmuştur.</Description>
+        <RuntimeDependencies>
+            <Dependency>pisi</Dependency>
+        </RuntimeDependencies>
+    </Package>
+</PISI>
