@@ -1,0 +1,10 @@
+<PISI>
+    <Source>
+        <Name>Bars-Project-Repo</Name>
+        <Homepage>https://github.com/teamDRXO</Homepage>
+        <Packager>
+            <Name>Team Drxo</Name>
+            <Email>info@bars-project.org</Email>
+        </Packager>
+    </Source>
+</PISI>
